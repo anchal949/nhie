@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.742" cy="0.612" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fecbe2"/>
+      <stop offset="1" stop-color="#fff6fb" stop-opacity="0.859"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffeff7"/>
+      <stop offset="1" stop-color="#fef2f9"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-7" cx="0.623" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fedcec"/>
+      <stop offset="1" stop-color="#fdf4fb"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-8" cx="0.757" cy="0.774" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fedfee"/>
+      <stop offset="1" stop-color="#fdf3fa"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-9" cx="0.6" cy="0.803" xlink:href="#radial-gradient-8"/>
+  </defs>
+  <g id="pic" transform="translate(0 0)">
+    <circle id="Ellipse_29" data-name="Ellipse 29" cx="84" cy="84" r="84" transform="translate(974 236)" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_32" data-name="Ellipse 32" cx="49" cy="49" r="49" transform="translate(1093 236)" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_33" data-name="Ellipse 33" cx="49" cy="49" r="49" transform="translate(683 700)" opacity="0.78" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_34" data-name="Ellipse 34" cx="41.5" cy="41.5" r="41.5" transform="translate(1649 97)" opacity="0.78" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_37" data-name="Ellipse 37" cx="58" cy="58" r="58" transform="translate(457 62)" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_38" data-name="Ellipse 38" cx="49" cy="49" r="49" transform="translate(118 872)" opacity="0.78" fill="url(#radial-gradient)"/>
+    <path id="Intersection_1" data-name="Intersection 1" d="M1825,108.5A108.2,108.2,0,0,1,1859.662,29H1920V216.168A108.519,108.519,0,0,1,1825,108.5Z" transform="translate(0 -29)" fill="url(#linear-gradient)"/>
+    <path id="Intersection_2" data-name="Intersection 2" d="M103,563.577V290.423a142,142,0,1,1,0,273.154Z" transform="translate(-103)" fill="url(#radial-gradient-7)"/>
+    <path id="Intersection_3" data-name="Intersection 3" d="M1804.61,1080A117.6,117.6,0,0,1,1920,943v137Z" fill="url(#radial-gradient-8)"/>
+    <path id="Intersection_4" data-name="Intersection 4" d="M1276,1080a84.009,84.009,0,0,1,132.4-68.665,49,49,0,1,1,69.9,68.665Z" fill="url(#radial-gradient-9)"/>
+  </g>
+</svg>
